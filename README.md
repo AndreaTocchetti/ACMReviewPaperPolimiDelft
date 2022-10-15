@@ -11,6 +11,8 @@ The documents in the repository contain the papers at different steps of the
  * Classified Papers - The list of 1'800 papers inspected by the authors, organized in four batches.
  * Final List of Articles - The final list of 560 papers considered in the review.
 
+The keywords for the queries can be find in [Queries Scopus & Google Scholar](https://github.com/AndreaTocchetti/ACMReviewPaperPolimiDelft/blob/main/Scripts/Article%20Download/queries_scopus.txt) and [Queries Semantic Scholar & Web of Science](https://github.com/AndreaTocchetti/ACMReviewPaperPolimiDelft/blob/main/Scripts/Article%20Download/queries_semscholar.txt)
+
 ## 2. Scripts
 The Scripts folder contains the Python scripts used to manage the documents (e.g., duplicate removal).
 
