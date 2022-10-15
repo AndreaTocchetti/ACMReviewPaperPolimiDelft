@@ -1,4 +1,5 @@
-# A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities (by PoliMi and TUDelft)
+# A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities
+**Politecnico di Milano and Delft University of Technology**
 
 ## Table of Content
 * [1. Data Collection](#data-collection)
