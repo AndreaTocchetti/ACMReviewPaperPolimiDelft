@@ -1,0 +1,439 @@
+# == == [ Keywords to remove ] == ==
+to_delete:
+  dest: 
+    - "to_delete"
+  source: 
+    - "principle"
+    - "-"
+    - "study"
+    - "compression"
+
+# == == [ Typos ] == ==
+dec_tree:
+  dest:
+    - "decision trees"
+  source:
+    - "decision tree"
+classification:
+  dest:
+    - "classification"
+  source:
+    - "traditional classifiers"
+dataset:
+  dest:
+    - "dataset"
+  source:
+    - "datasets"
+svm:
+  dest: 
+    - "support vector machine"
+  source:
+    - "support vector machines"
+snn:
+  dest: 
+    - "spiking neural network"
+  source:
+    - "spiking network"
+    - "spiking networks"
+loss:
+  dest: 
+    - "loss function"
+  source:
+    - "loss"
+defense:
+  dest: 
+    - "defense"
+  source:
+    - "defence"
+survey:
+  dest: 
+    - "survey"
+  source:
+    - "short survey"
+    - "review"
+early_stop:
+  dest: 
+    - "early stopping"
+  source:
+    - "early stoppage"
+benchmark:
+  dest: 
+    - "benchmark"
+  source:
+    - "benchmarks"
+diversity:
+  dest:
+    - "diversity"
+  source:
+    - "diverisity"
+domain_adapt:
+  dest:
+    - "domain adaptation"
+  source:
+    - "domain adpatation"
+speech_recognition:
+  dest:
+    - "speech recognition"
+  source:
+    - "speech recognitino"
+anomaly_det:
+  dest:
+    - "anomaly detection"
+  source:
+    - "anomaly dection"
+seq_dec_making:
+  dest:
+    - "sequential decision making"
+  source:
+    - "sequencial decision making"
+efficiency:
+  dest:
+    - "efficiency"
+  source:
+    - "effieciency"
+
+# == == [ Aggregations ] == ==
+distr_shift:
+  dest:
+    - "distribution shift"
+  source:
+    - "robustness to distribution shifts"
+    - "domain shift"
+    - "domain shifts"
+    - "change in data"
+label_noise:
+  dest: 
+    - "label noise"
+  source: 
+    - "robustness to label noise"
+    - "robustness to noisy labels"
+    - "robustness to  noisy labels"
+    - "robustness to noise labels"
+    - "noise label"
+    - "noisy labels"
+trustworthy:
+  dest: 
+    - "trustworthy"
+  source:
+    - "trustworthiness"
+    - "trust"
+    - "trustworthy ml"
+explainability:
+  dest: 
+    - "explainability"
+  source:
+    - "explanations"
+    - "explanation"
+    - "xai"
+    - "fidelity"
+hyperparameters:
+  dest: 
+    - "hyperparameters"
+  source:
+    - "robustness to hyperparameter changes"
+    - "robustness to changes of hyperparameters"
+gan:
+  dest: 
+    - "generative adversarial networks"
+  source:
+    - "gan"
+    - "generative adversarial network"
+    - "generative adversarial model"
+adv_robustness:
+  dest: 
+    - "adversarial robustness"
+  source:
+    - "adversarial. robust"
+    - "adverarial robustness"
+    - "non-adversarial robustness"
+machine_translation:
+  dest: 
+    - "machine translation"
+  source:
+    - "neural machine translation"
+    - "machine translations"
+generalization:
+  dest: 
+    - "generalization"
+  source:
+    - "genralization"
+    - "generalize"
+    - "robustness generalization"
+pruned:
+  dest: 
+    - "pruning"
+  source:
+    - "pruned"
+robust:
+  dest: 
+    - "robust"
+  source:
+    - "robsut"
+    - "robustness"
+    - "certified robustness"
+    - "semantic robustness"
+    - "semantics robustness"
+    - "probabilistic robustness"
+    - "robustness to forgetting (when learning new tasks)"
+    - "robustness to missing data"
+    - "data robustness"
+    - "intrinsic robustness"
+    - "robustness method"
+open_env:
+  dest: 
+    - "open environment"
+  source:
+    - "open-world learning"
+accuracy:
+  dest: 
+    - "accuracy"
+  source:
+    - "robust. accuracy"
+    - "robustness vs accuracy"
+gnn:
+  dest: 
+    - "graph neural network"
+  source:
+    - "graph network"
+    - "graph convolutional network"
+    - "gnn"
+rnn:
+  dest: 
+    - "recurrent neural network"
+  source:
+    - "rnn"
+    - "lstm"
+    - "recurrent neural netweork"
+lipschitz:
+  dest: 
+    - "lipschitz"
+  source:
+    - "lipschitz continuity"
+noise:
+  dest: 
+    - "noise"
+  source:
+    - "robustness to noice"
+    - "adversarial noise"
+    - "noisy data"
+verification:
+  dest: 
+    - "verification"
+  source:
+    - "robustness verification"
+ood_data:
+  dest: 
+    - "out-of-distribution data"
+  source:
+    - "out.of-distribution"
+    - "out-of-distribution"
+    - "out-of-domain data"
+    - "out-of-distribution dataset"
+regularization:
+  dest: 
+    - "regularization"
+  source:
+    - "regularizer"
+perturbations:
+  dest: 
+    - "perturbations"
+  source:
+    - "manual perturbations"
+    - "robust to model perturbations"
+    - "robustness to model perturbations"
+    - "weight perturbation"
+    - "robustness to input perturbations"
+    - "image corruption"
+    - "robustness to natural perturbations"
+fairness:
+  dest: 
+    - "fairness"
+  source:
+    - "individual fairness"
+    - "algorithmic fairness"
+    - "fair representation"
+evaluation:
+  dest: 
+    - "evaluation"
+  source:
+    - "assessment"
+    - "assesment"
+    - "evaluation of ml"
+    - "new evaluation method"
+interpretability:
+  dest: 
+    - "interpretability"
+  source:
+    - "human interpretable"
+reliability:
+  dest: 
+    - "reliability"
+  source:
+    - "reliable"
+exp_eval:
+  dest:
+    - "explainability"
+    - "evaluation"
+  source:
+    - "evaluation of explanations"
+count_exp:
+  dest:
+    - "explainability"
+    - "counterfactual"
+  source:
+    - "counterfactual explanations"
+identification:
+  dest:
+    - "identification"
+  source:
+    - "identification method"
+    - "identification methods"
+rob_eval_framework:
+  dest:
+    - "evaluation"
+    - "framework"
+  source:
+    - "robustness evaluation framework"
+th_framework:
+  dest:
+    - "framework"
+  source:
+    - "theoretical framework"
+nn:
+  dest:
+    - "neural network"
+  source:
+    - "neural ode network"
+    - "neural ode networks"
+    - "modular neural network"
+nlp:
+  dest:
+    - "nlp"
+  source:
+    - "text classification"
+    - "text"
+    - "textual"
+    - "natural language processing"
+    - "machine translation"
+    - "question answering"
+    - "natural language inference"
+    - "dialogue"
+    - "named entity recognition"
+    - "dependency parsing"
+cv:
+  dest:
+    - "computer vision"
+  source:
+    - "3d objects"
+    - "object detection"
+    - "face recognition"
+    - "object tracking"
+    - "emotion recognition"
+    - "image segmentation"
+    - "video saliency detection"
+    - "text recognition"
+    - "semantic segmentation"
+    - "image segmentation"
+time_series:
+  dest:
+    - "time series"
+  source:
+    - "speech recognition"
+    - "speech detection"
+    - "audio recognition"
+cluster:
+  dest:
+    - "clustering"
+  source:
+    - "centroid"
+    - "k-means"
+stability:
+  dest:
+    - "stability"
+  source:
+    - "stable representation"
+cnn:
+  dest:
+    - "convolutional neural network"
+  source:
+    - "cnn"
+    - "channels"
+    - "hierarchical cnn"
+    - "hierachical cnn"
+uncertainty:
+  dest:
+    - "uncertainty"
+  source:
+    - "uncertanty"
+    - "label uncertainty"
+dl:
+  dest:
+    - "deep learning"
+  source:
+    - "deep learing"
+    - "deep neural network"
+adv_atk_image:
+  dest:
+    - "adversarial attacks"
+    - "image segmentation"
+  source:
+    - "adversarial attacks for image segmentation"
+features:
+  dest:
+    - "features"
+  source:
+    - "feature selection"
+    - "robust features"
+    - "feature"
+    - "discriminative featues"
+    - "discriminative features"
+    - "feature alignment"
+    - "feature attribution"
+    - "feature robustness"
+cybersecurity:
+  dest:
+    - "cybersecurity"
+  source:
+    - "security"
+    - "backdoor"
+    - "malware"
+adversarial:
+  dest: 
+    - "adversarial"
+  source:
+    - "adversarial learning"
+    - "adversarial examples"
+    - "adversarial failure"
+    - "adeversarial"
+hci:
+  dest:
+    - "hci"
+  source:
+    - "human-in-the-loop"
+    - "human-ai decision making"
+metric:
+  dest:
+    - "metric"
+  source:
+    - "measure"
+adv_attack:
+  dest:
+    - "adversarial attacks"
+  source:
+    - "adversarial attack"
+    - "attack algorithms"
+rec_sys:
+  dest:
+   - "recommender systems"
+  source:
+   - "recommendation system"
+transformers:
+  dest:
+   - "transformer network"
+  source:
+   - "vision transformers"
+smoothing:
+  dest:
+   - "smoothing"
+  source:
+   - "randomized smoothing"
