@@ -4,6 +4,6 @@
 * [1. Data Collection](#data-collection)
 * [2. Scripts](#scripts)
 
-## Data Collection
+## 1. Data Collection
 
-## Scripts
+## 2. Scripts
